@@ -1,6 +1,6 @@
 def format_name(f_name, l_name):
-  formatted_f_name = f_name.title()
-  formatted_l_name = l_name.title()
-  print(formatted_f_name, formatted_l_name)
+  formated_f_name = f_name.title()
+  formated_l_name = l_name.title()
+  print(formated_f_name, formated_l_name)
 
 format_name("henry", "NING")
